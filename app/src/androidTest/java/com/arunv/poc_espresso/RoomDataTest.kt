@@ -38,7 +38,7 @@ class RoomDataTest {
 
     @Test
     @Throws(Exception::class)
-    fun writeUserAndReadInList() {
+    fun writeUserAndReadDataFromRoom() {
         val user: User = User()
         user.userName = "10001"
         user.password = "abdcef"
