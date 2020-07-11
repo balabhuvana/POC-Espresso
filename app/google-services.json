@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "905840782976",
+    "firebase_url": "https://poc-espresso.firebaseio.com",
+    "project_id": "poc-espresso",
+    "storage_bucket": "poc-espresso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905840782976:android:f6e8b2717fcb0b414f8065",
+        "android_client_info": {
+          "package_name": "com.arunv.poc_espresso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905840782976-g1eeb25dr0sgue3115o4426avvkh44j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaGjI73mj6wYT0Q6uVb9YgX5E0i-RngJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905840782976-g1eeb25dr0sgue3115o4426avvkh44j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

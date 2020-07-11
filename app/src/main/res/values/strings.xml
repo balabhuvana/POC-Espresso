@@ -7,4 +7,6 @@
     <string name="start_first_fragment">Start first fragment</string>
     <string name="password">Password</string>
     <string name="start_second_fragment">Start Second Fragment</string>
+    <string name="insert">Insert</string>
+    <string name="select">Select</string>
 </resources>
